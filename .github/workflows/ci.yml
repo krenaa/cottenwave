@@ -1,3 +1,4 @@
+#test ci
 mkdir -p .github/workflows
 cat > .github/workflows/ci.yml <<'YAML'
 name: CI - Build & Push Docker Image
